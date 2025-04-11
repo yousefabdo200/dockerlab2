@@ -1,0 +1,23 @@
+{
+  "name": "dockerlab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": " server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefabdo200/dockerlab2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousefabdo200/dockerlab2/issues"
+  },
+  "homepage": "https://github.com/yousefabdo200/dockerlab2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
